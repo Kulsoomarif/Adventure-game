@@ -1,0 +1,20 @@
+{
+  "name": "adventure game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin":"index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kulso0m Arif",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "figlet": "^1.7.0",
+    "inquirer": "^9.3.2"
+  },
+  "devDependencies": {
+    "@types/figlet": "^1.5.8"
+  }
+}
